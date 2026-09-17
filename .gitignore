@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+
+# Environment
+.env
+.env.local
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.o
+*.pyc
+
+# Logs
+*.log
